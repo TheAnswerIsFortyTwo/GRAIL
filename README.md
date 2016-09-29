@@ -35,7 +35,7 @@ The main function is `grail`, which accepts the following parameters:
 
 where `theta` is the number of Gabor scales, `f` is the number of Gabor frequencies, `delta` is the initial search span and `K` is the maximun number of iterations. Images can be previously downscaled for speed with the `scale` parameter. 
 
-The values `a` and `b` represent the returned minimum and maximum intensity values. From this tuple we can easily derive the appropiate Window Level and Window Width as $\mathrm{WL}=\frac{1}{2}(b-a)$ and $\mathrm{WW}=b-a$. 
+The values `a` and `b` represent the returned minimum and maximum intensity values. From this tuple we can easily derive the appropiate Window Level and Window Width as `WL = (b - a)/2` and `WW = b - a`. 
 
 
 
