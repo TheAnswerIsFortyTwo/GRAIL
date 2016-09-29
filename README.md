@@ -1,6 +1,6 @@
 # About GRAIL
 
-GRAIL (Gabor-relying adjustment of image levels) seeks the intensity window that maximizes the visual information when displaying a 12 bit mammogram in 8 bit displays. The proposed technique is in turn based on [Gabor filters](https://en.wikipedia.org/wiki/Gabor_filter) and the [human visual system](https://en.wikipedia.org/wiki/Visual_system).
+**GRAIL** (*Gabor-relying adjustment of image levels*) seeks the intensity window that maximizes the visual information when displaying a 12 bit mammogram in 8 bit displays. The proposed technique is in turn based on [Gabor filters](https://en.wikipedia.org/wiki/Gabor_filter) and the [human visual system](https://en.wikipedia.org/wiki/Visual_system).
 
 
 
@@ -12,7 +12,7 @@ This simple animation shows the result of the iterative optimal intensity search
 
 
 
-This example uses the second [2k mammography pattern](http://deckard.mc.duke.edu/~samei/tg18_files/TG18-MM-dcm.zip) available at the home page of the [TG18](http://deckard.mc.duke.edu/~samei/tg18) group from the [AAPM](http://www.aapm.org).
+This example uses the second [2k mammography pattern](http://deckard.mc.duke.edu/~samei/tg18_files/TG18-MM-dcm.zip) available at the home page of the [TG18](http://deckard.mc.duke.edu/~samei/tg18) group from the [AAPM](http://www.aapm.org):
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfE-gRiWyKvW20HS4JW-YICaHz1twjuX2ZbGXX8dZaXyeZ2ZcwmA)
 
@@ -65,6 +65,6 @@ The data from the panel of physicians and radiologists that verified the suitabi
 
 # Credits
 
-This is part of a research work developed by Instituto de Física Corpuscular (IFIC), Universidad de Valencia and Universidad Politécnica de Valencia.
+This is part of a research work developed by [Instituto de Física Corpuscular (IFIC)](http://ific.uv.es), [Universidad de Valencia](http://www.uv.es) and [Universidad Politécnica de Valencia](https://www.upv.es).
 
 ![](http://www.uv.es/otri/imagenes/logo-ific)  ![](https://www.prhlt.upv.es/images/logo-upv-hor.png)
