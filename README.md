@@ -41,7 +41,9 @@ The values `a` and `b` represent the returned minimum and maximum intensity valu
 
 # Results
 
-The data from the panel of physicians and radiologists that verified the suitability of the GRAIL method can be downloaded from here (TODO).
+![](observerbanner.jpg)
+
+The data from the panel of physicians and radiologists that verified the suitability of the GRAIL method can be downloaded from [here](observers.tsv).
 
 
 
