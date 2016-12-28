@@ -61,6 +61,8 @@ The data from the panel of physicians and radiologists that verified the suitabi
 
 - [Task Group 18](http://deckard.mc.duke.edu/~samei/tg18)
 
+- [Relation of images used](used_images.txt).
+
   ​
 
 
