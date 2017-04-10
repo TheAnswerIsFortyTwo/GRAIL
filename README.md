@@ -2,6 +2,8 @@
 
 **GRAIL** (*Gabor-relying adjustment of image levels*) seeks the intensity window that maximizes the visual information when displaying a 12 bit mammogram in 8 bit displays. The proposed technique is in turn based on [Gabor filters](https://en.wikipedia.org/wiki/Gabor_filter) and the [human visual system](https://en.wikipedia.org/wiki/Visual_system).
 
+GRAIL is described in the paper: A. Albiol, A. Corbi, F. Albiol, **Automatic intensity windowing of mammographic images based on a perceptual metric**, *Medical Physics*, 2017, DOI: 10.1002/mp.12144.
+
 
 
 # Demo
@@ -69,6 +71,6 @@ The data from the panel of physicians and radiologists that verified the suitabi
 
 # Credits
 
-This is part of a research work developed by [Instituto de Física Corpuscular (IFIC)](http://ific.uv.es), [Universidad de Valencia](http://www.uv.es) and [Universidad Politécnica de Valencia](https://www.upv.es).
+This is part of a research work developed by [Instituto de Física Corpuscular (IFIC-CSIC-UV)](http://ific.uv.es), [Universidad de Valencia](http://www.uv.es) and [Universidad Politécnica de Valencia](https://www.upv.es).
 
-![](http://www.uv.es/otri/imagenes/logo-ific)  ![](https://www.prhlt.upv.es/images/logo-upv-hor.png)
+![](http://www.uv.es/otri/imagenes/logo-ific)  ![http://wwwuser.cnb.csic.es/~naranjo/images/logo_csic_arbol.jpg](http://wwwuser.cnb.csic.es/~naranjo/images/logo_csic_arbol.jpg) ![](http://users.dsic.upv.es/~margomez/images/logo_upv.png)
