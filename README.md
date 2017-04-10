@@ -73,4 +73,4 @@ The data from the panel of physicians and radiologists that verified the suitabi
 
 This is part of a research work developed by [Instituto de Física Corpuscular (IFIC-CSIC-UV)](http://ific.uv.es), [Universidad de Valencia](http://www.uv.es) and [Universidad Politécnica de Valencia](https://www.upv.es).
 
-![](http://www.uv.es/otri/imagenes/logo-ific)  ![http://wwwuser.cnb.csic.es/~naranjo/images/logo_csic_arbol.jpg](http://wwwuser.cnb.csic.es/~naranjo/images/logo_csic_arbol.jpg) ![](http://users.dsic.upv.es/~margomez/images/logo_upv.png)
+![](http://www.uv.es/otri/imagenes/logo-ific)  ![](http://wwwuser.cnb.csic.es/~naranjo/images/logo_csic_arbol.jpg) ![](http://users.dsic.upv.es/~margomez/images/logo_upv.png)
